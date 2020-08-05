@@ -1,16 +1,17 @@
-### Hi there 👋
+## I like trains
 
-<!--
-**LachlanWalls/LachlanWalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also like implementing pointless ideas very, very badly and talking about things when I really have no idea what they mean.
 
-Here are some ideas to get you started:
+If you have some sudden urge to message me for some reason, add me on Discord, [eeeeeehhhhh#3706](https://discord.com/users/281665697593950209).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Check these out
+
+[ytmp3](https://github.com/LachlanWalls/ytmp3): YouTube to mp3 converter that doesn't actually work well at all, pretty standard for me
+
+[lachlantransfer](https://github.com/LachlanWalls/lachlantransfer): File transfer system, which does actually work, surprisingly
+
+[Kettu](https://kettu.cc): SFW furry Discord bot (owner is [Gideon](https://github.com/Gideon-foxo))
+
+[moontime](https://github.com/LachlanWalls/moontime): 'the imperial of time'
+
+[bruhsynth](https://github.com/LachlanWalls/bruhsynth): no one asked, but you got it anyway
