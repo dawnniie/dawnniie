@@ -6,12 +6,8 @@ If you have some sudden urge to message me for some reason, add me on Discord, [
 
 #### Check these out
 
-[ytmp3](https://github.com/LachlanWalls/ytmp3): YouTube to mp3 converter that doesn't actually work well at all, pretty standard for me
-
-[lachlantransfer](https://github.com/LachlanWalls/lachlantransfer): File transfer system, which does actually work, surprisingly
+[ytmp3](https://github.com/LachlanWalls/ytmp3): YouTube to mp3 converter that doesn't actually work well at all
 
 [Kettu](https://kettu.cc): SFW furry Discord bot (owner is [Gideon](https://github.com/Gideon-foxo))
 
 [moontime](https://github.com/LachlanWalls/moontime): 'the imperial of time'
-
-[bruhsynth](https://github.com/LachlanWalls/bruhsynth): no one asked, but you got it anyway
