@@ -1,5 +1,5 @@
-hii :)
+Part time reader, full time cat lover and full stack developer
 
-please give me good project ideas
+Please give me good project ideas
 
-also join my [discord server](https://discord.gg/DH6hDMHsds) or just dm me at [eeehh#2247](https://discord.com/users/281665697593950209) c:
+Join my [discord server](https://discord.gg/DH6hDMHsds) or just dm me at [eeehh#2247](https://discord.com/users/281665697593950209) :)
