@@ -1,5 +1,7 @@
-Part time reader, full time cat lover and full stack developer
+### Part time cat lover, university student & full-stack developer.
 
-Please give me good project ideas
+Ideas to further build my empire of useless projects are always appreciated!
 
-Join my [discord server](https://discord.gg/DH6hDMHsds) or just dm me at [eeehh#2247](https://discord.com/users/281665697593950209) :)
+Reinventing the wheel to figure out how it actually works, and to see how well I can do it.
+
+My Discord is [dawnniie](https://discord.com/users/281665697593950209) :)
